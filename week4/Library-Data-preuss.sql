@@ -1,4 +1,4 @@
-SET search_path TO jpreuss1;
+SET search_path TO library;
 
 INSERT INTO publisher (name, address, phone) VALUES
     ('Penguin Random House', 'New York, NY', '212-555-1000'),
